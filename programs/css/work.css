@@ -92,6 +92,21 @@
         height: 300px;
     }
 
+    .card-title{
+        font-size: 3rem;
+    }
+
+    .card-info{
+        font-size: 1rem;
+    }
+
+    .card-btn{
+        font-size: 1rem;
+        border-radius: 1rem;
+        padding: 4px 8px;
+        font-weight: 400;
+    }
+
     .service-box{
         height: 450px;
     }
